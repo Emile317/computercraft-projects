@@ -1,0 +1,4 @@
+{
+    "blocks_to_collect": ["redstone", "diamond", "gold", "copper", "lapis", "coal", "iron", "emerald", "stone"],
+    "blocks_between_turn": 2
+}
